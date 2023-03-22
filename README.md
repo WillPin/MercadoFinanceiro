@@ -1,0 +1,2 @@
+# SimuCarteiraAcoes
+Notas de aula: INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING
